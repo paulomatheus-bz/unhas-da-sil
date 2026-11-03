@@ -1,31 +1,50 @@
-# Unhas da Sil
+<div align="center">
 
-Repositório do projeto **Unhas da Sil**, mantido por [Paulo Matheus](https://github.com/paulomatheus-bz).
+<sub>BELEZA</sub>
 
-## Estado atual
+<h1>Unhas da Sil</h1>
 
-O repositório foi iniciado com este README. O código da aplicação ainda não foi publicado aqui. Por isso, tecnologias, funcionalidades e comandos de instalação ainda não podem ser confirmados a partir dos arquivos disponíveis.
+<p>Documentação inicial · Código ainda não publicado neste repositório.</p>
 
-Esta documentação descreve o estado do GitHub; uma versão local do projeto pode estar mais avançada.
+<p><a href="#situação-do-repositório">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositório">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#próximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboração">Colaboração</a></p>
 
-## Obter o repositório
+</div>
+
+---
+
+## Situação do repositório
+
+Este espaço reúne a documentação inicial de **Unhas da Sil**. O código da aplicação ainda não está versionado aqui; a versão local pode estar mais avançada.
+
+| Disponível agora | A documentar com o código |
+| --- | --- |
+| Apresentação do repositório | Tecnologias e dependências |
+| Orientação para obter uma cópia | Telas e funcionalidades implementadas |
+| Próximos passos de organização | Instalação, execução e verificações |
+
+## Acessar o repositório
+
+<details>
+<summary>Clonar a documentação</summary>
 
 ```bash
 git clone https://github.com/paulomatheus-bz/unhas-da-sil.git
 cd unhas-da-sil
 ```
 
-Ainda não há uma aplicação para iniciar a partir deste clone.
+O clone atual contém documentação, sem uma aplicação para iniciar.
+
+</details>
 
 ## Próximos passos
 
-- Adicionar o código existente, preservando seu histórico quando houver.
-- Documentar a finalidade, as telas e os recursos realmente implementados.
-- Registrar as dependências, os comandos de desenvolvimento e as verificações disponíveis.
-- Incluir exemplos de configuração sem credenciais, quando necessários.
+- [ ] Adicionar os arquivos do projeto, preservando o histórico existente.
+- [ ] Descrever os recursos a partir do código publicado.
+- [ ] Registrar os comandos de desenvolvimento e verificação.
+- [ ] Incluir configuração de exemplo e imagens autorizadas, quando necessárias.
 
 ## Colaboração
 
-Use branches `feature/<descricao>` e pull requests para mudanças. Antes do primeiro envio de código, configure o `.gitignore` para excluir credenciais, arquivos `.env`, dependências, builds e dados privados.
+Organize alterações em branches `feature/<descricao>` e revise por pull request. Antes de adicionar o código, configure o `.gitignore` para excluir dependências, builds, arquivos `.env` e dados privados.
 
-Não inclua dados de clientes, senhas ou tokens na documentação.
+Não versione senhas, tokens ou dados de clientes.
