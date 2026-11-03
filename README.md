@@ -48,3 +48,7 @@ O clone atual contém documentação, sem uma aplicação para iniciar.
 Organize alterações em branches `feature/<descricao>` e revise por pull request. Antes de adicionar o código, configure o `.gitignore` para excluir dependências, builds, arquivos `.env` e dados privados.
 
 Não versione senhas, tokens ou dados de clientes.
+
+---
+
+Desenvolvido por **[Paulo Matheus](https://github.com/paulomatheus-bz)**.
