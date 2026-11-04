@@ -2,11 +2,11 @@
 
 <sub>BELEZA</sub>
 
-<h1>Unhas da Sil</h1>
+# Unhas da Sil
 
-<p>Documentação inicial · Código ainda não publicado neste repositório.</p>
+Documentação inicial para uma presença digital no segmento de beleza.
 
-<p><a href="#situação-do-repositório">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositório">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#próximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboração">Colaboração</a></p>
+![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-EC4899?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-EC4899?style=flat-square&labelColor=111827)
 
 </div>
 
