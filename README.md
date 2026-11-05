@@ -1,21 +1,11 @@
 # Unhas da Sil
 
-Página de apresentação de serviços de nail design, com foco em mostrar o trabalho e encaminhar clientes para o agendamento.
+Página de apresentação dos serviços de nail design da Sil.
 
 **Demonstração:** https://studio-de-unhas-da-sii.vercel.app
 
-## Escopo
+A página mostra o trabalho e encaminha clientes para o agendamento. Horários e disponibilidade são combinados diretamente com a profissional.
 
-A vitrine pode apresentar serviços, trabalhos autorizados, localização e canais de contato. Horários e disponibilidade devem ser confirmados com a profissional.
-
-## Arquivos do projeto
-
-A página está publicada, mas sua implementação ainda não foi organizada neste repositório. Quando o código for adicionado, o GitHub passará a mostrar as linguagens utilizadas.
-
-## Manutenção do conteúdo
-
-Usar fotos autorizadas e atualizar as informações de atendimento antes de divulgar mudanças.
-
----
+A versão publicada ainda não foi organizada em código neste repositório. As fotos precisam ter autorização de uso.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
