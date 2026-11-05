@@ -16,4 +16,8 @@ A página mostra o trabalho e encaminha clientes para o agendamento, que é comb
 
 O código da demonstração ainda não está organizado neste repositório. Para esta vitrine, a stack prevista é HTML, CSS e JavaScript. As fotos precisam ter autorização de uso.
 
+## Continuidade do projeto
+
+A próxima revisão deve conferir os serviços, a forma de agendamento e as imagens escolhidas com a profissional. Depois de organizar o código aqui, vou registrar como abrir a página localmente e validar os links em telas pequenas.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
