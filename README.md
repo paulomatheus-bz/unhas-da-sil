@@ -7,3 +7,6 @@ Página de apresentação de serviços de nail design, com foco em mostrar o tra
 ## Arquivos do projeto
 
 A página está publicada, mas sua implementação ainda não foi organizada neste repositório. Quando o código for adicionado, o GitHub passará a mostrar as linguagens utilizadas.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
