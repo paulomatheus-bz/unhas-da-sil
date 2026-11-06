@@ -7,7 +7,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-<p><sub>Tecnologias previstas para implementação.</sub></p>
+<p><sub>Stack planejada para esta versão.</sub></p>
 Desenvolvi uma página de apresentação para os serviços de nail design da Sil.
 
 **Demonstração:** https://studio-de-unhas-da-sii.vercel.app
