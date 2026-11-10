@@ -1,6 +1,6 @@
 # Unhas da Sil
 
-> Desenvolvi uma página de apresentação para os serviços de nail design da Sil.
+> Página de apresentação dos serviços de nail design da Sil.
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -9,17 +9,10 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-
-
-<p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Demonstração:** https://studio-de-unhas-da-sii.vercel.app
 
-A página mostra o trabalho e encaminha clientes para o agendamento, que é combinado diretamente com a profissional. Horários e disponibilidade devem ser confirmados antes de divulgar alterações.
+Página para apresentar o trabalho da Sil e direcionar clientes ao agendamento, combinado diretamente com a profissional.
 
-O código da demonstração ainda não está organizado neste repositório. Para esta vitrine, a stack prevista é HTML, CSS e JavaScript. As fotos precisam ter autorização de uso.
-
-## Alinhamento com a profissional
-
-A próxima revisão deve conferir os serviços, a forma de agendamento e as imagens escolhidas com a profissional. Depois de organizar o código aqui, vou registrar como abrir a página localmente e validar os links em telas pequenas.
+O código não foi organizado neste repositório. HTML, CSS e JavaScript são a stack prevista. Serviços, horários e imagens devem ser confirmados com a profissional antes de atualizar a página.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
