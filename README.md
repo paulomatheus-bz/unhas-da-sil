@@ -1,6 +1,6 @@
 # Unhas da Sil
 
-> Página de apresentação dos serviços de nail design da Sil.
+> Página de apresentação dos serviços da Sil.
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -9,10 +9,10 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-**Demonstração:** https://studio-de-unhas-da-sii.vercel.app
+**Demo:** https://studio-de-unhas-da-sii.vercel.app
 
-Página para apresentar o trabalho da Sil e direcionar clientes ao agendamento, combinado diretamente com a profissional.
+A página divulga os serviços da Sil e direciona o agendamento à profissional. O código não está aqui; a stack prevista é HTML, CSS e JavaScript.
 
-O código não foi organizado neste repositório. HTML, CSS e JavaScript são a stack prevista. Serviços, horários e imagens devem ser confirmados com a profissional antes de atualizar a página.
+Serviços, horários e fotos devem ser conferidos com a Sil.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
