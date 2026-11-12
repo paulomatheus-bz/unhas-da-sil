@@ -15,4 +15,9 @@ A página divulga os serviços da Sil e direciona o agendamento à profissional.
 
 Serviços, horários e fotos devem ser conferidos com a Sil.
 
+
+## Atendimento e portfólio
+
+Página voltada à divulgação do trabalho da profissional e ao contato para agendamento.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
